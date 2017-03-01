@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Fix issue 53 again
-=======
-Fix issue 53 -- testing branch
->>>>>>> issue53
